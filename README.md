@@ -5,8 +5,8 @@
 Inspired by [@NLKNguyen's](https://github.com/NLKNguyen) [papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) and [materializecss](http://materializecss.com/)
 
 ## Downloads :cloud:
-- [material-light](./material.itermcolors)
-- [material-dark](./material-dark.itermcolors)
+- [material-light](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/material.itermcolors)
+- [material-dark](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/material-dark.itermcolors)
 
 ## Screenshots :camera:
 
