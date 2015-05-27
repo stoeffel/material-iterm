@@ -12,7 +12,7 @@ Inspired by [@NLKNguyen's](https://github.com/NLKNguyen) [papercolor-theme](http
 
 | light | dark |
 |:-:|:-:|
-| ![screenshot-light](https://cdn.rawgit.com/stoeffel/material-iterm/master/screenshot.png) | ![screenshot-dark](https://cdn.rawgit.com/stoeffel/material-iterm/master/screenshot-dark.png) |
+| ![screenshot-light](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/screenshot.png) | ![screenshot-dark](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/screenshot-dark.png) |
 
 
 
