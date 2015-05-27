@@ -9,8 +9,11 @@ Inspired by [@NLKNguyen's](https://github.com/NLKNguyen) [papercolor-theme](http
 - [material-dark](https://cdn.rawgit.com/stoeffel/material-iterm/master/material-dark.itermcolors)
 
 ## Screenshots :camera:
-![screenshot-light](https://cdn.rawgit.com/stoeffel/material-iterm/master/screenshot.png)
-![screenshot-dark](https://cdn.rawgit.com/stoeffel/material-iterm/master/screenshot-dark.png)
+
+| light | dark |
+|:-:|:-:|
+| ![screenshot-light](https://cdn.rawgit.com/stoeffel/material-iterm/master/screenshot.png) | ![screenshot-dark](https://cdn.rawgit.com/stoeffel/material-iterm/master/screenshot-dark.png) |
+
 
 
 ## Contribution
