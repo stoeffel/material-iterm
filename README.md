@@ -2,6 +2,9 @@
 
 > Light & dark material theme for iterm2
 
+
+:warning: Currently only for iterm2 nightly
+
 Inspired by [@NLKNguyen's](https://github.com/NLKNguyen) [papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) and [materializecss](http://materializecss.com/)
 
 ## Downloads :cloud:
