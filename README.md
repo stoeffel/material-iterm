@@ -8,14 +8,19 @@
 Inspired by [@NLKNguyen's](https://github.com/NLKNguyen) [papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) and [materializecss](http://materializecss.com/)
 
 ## Downloads :cloud:
-- [material-light](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/material.itermcolors)
-- [material-dark](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/material-dark.itermcolors)
+- iterm2 nightly
+  - [material-light](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.2/material.itermcolors)
+  - [material-dark](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.2/material-dark.itermcolors)
+
+- iterm2 stable
+  - [material-light](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.2/stable/material.itermcolors)
+  - [material-dark](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.2/stable/material-dark.itermcolors)
 
 ## Screenshots :camera:
 
 | light | dark |
 |:-:|:-:|
-| ![screenshot-light](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/screenshot.png) | ![screenshot-dark](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/screenshot-dark.png) |
+| ![screenshot-light](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.2/screenshot.png) | ![screenshot-dark](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.2/screenshot-dark.png) |
 
 
 
