@@ -20,7 +20,11 @@ Inspired by [@NLKNguyen's](https://github.com/NLKNguyen) [papercolor-theme](http
 |:-:|:-:|
 | ![screenshot-light](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/screenshot.png) | ![screenshot-dark](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.1/screenshot-dark.png) |
 
+## color palette
 
+| light | dark |
+|:-:|:-:|
+| ![colors-light](https://cdn.rawgit.com/stoeffel/material-iterm/master/colors.png) | ![colors-dark](https://cdn.rawgit.com/stoeffel/material-iterm/master/colors_dark.png) |
 
 ## Contribution
 
