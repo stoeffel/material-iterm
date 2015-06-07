@@ -5,6 +5,12 @@
 
 Inspired by [@NLKNguyen's](https://github.com/NLKNguyen) [papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) and [materializecss](http://materializecss.com/)
 
+* [downloads](#downloads-cloud)
+* [screenshots](#screenshots-camera)
+* [color palette](#color-palette)
+* [contribution](#contribution)
+* [license](#license)
+
 ## Downloads :cloud:
 - iterm2 nightly
   - [material-light](https://cdn.rawgit.com/stoeffel/material-iterm/1.0.2/material.itermcolors)
